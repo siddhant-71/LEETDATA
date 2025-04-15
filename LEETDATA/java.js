@@ -121,18 +121,3 @@ document.addEventListener("DOMContentLoaded",()=>{
         Validate(username);
     })
 })
-
-
-
-
-/*
-
-        <tr>
-            <td>1</td>
-            <td>Course Schedule</td>
-            <td>17-03-2025 23:49</td>
-            <td>cpp</td>
-            <td>ACCEPTED</td>
-        </tr>
-
-*/
