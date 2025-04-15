@@ -15,14 +15,12 @@ Hard
 📝 Last 20 submissions with status and details
 
 🔧 Tech Stack
-HTML, CSS, JavaScript (or mention React/Vue if applicable)
-
-Unofficial LeetCode API
+HTML, CSS, JavaScript, Unofficial LeetCode API
 
 📦 How to Use
 Clone the repository
 
-Open the index.html (or run the dev server if using a framework)
+Open the index.html
 
 Enter any valid LeetCode username
 
